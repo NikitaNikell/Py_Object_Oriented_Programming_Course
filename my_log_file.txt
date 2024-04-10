@@ -1,0 +1,57 @@
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+my_log_file.txt
+Start work in get_information: 2023-10-31 17:38:48.906464
+Finished work in get_information: : 2023-10-31 17:38:48.914624
+Start work in get_information: 2023-10-31 17:39:18.944056
+Finished work in get_information: : 2023-10-31 17:39:18.945053
+Start work in get_information: 2023-10-31 17:39:32.995752
+Finished work in get_information: : 2023-10-31 17:39:32.995752
+Start work in delete_files: 2023-10-31 17:39:32.996754
+Finished work in delete_files: : 2023-10-31 17:39:32.996754
+Start work in get_information: 2023-11-01 10:01:48.490934
+Finished work in get_information: : 2023-11-01 10:01:48.491932
+Start work in delete_files: 2023-11-01 10:01:48.492932
+Finished work in delete_files: : 2023-11-01 10:01:48.492932
+Start work in get_information: 2023-11-01 10:01:49.997935
+Finished work in get_information: : 2023-11-01 10:01:49.998935
+Start work in delete_files: 2023-11-01 10:01:49.998935
+Finished work in delete_files: : 2023-11-01 10:01:49.998935
+Start work in get_information: 2023-11-01 10:02:05.035098
+Finished work in get_information: : 2023-11-01 10:02:05.035098
+Start work in delete_files: 2023-11-01 10:02:05.035098
+Finished work in delete_files: : 2023-11-01 10:02:05.035098
+Start work in get_information: 2023-11-01 10:02:05.843254
+Finished work in get_information: : 2023-11-01 10:02:05.843254
+Start work in delete_files: 2023-11-01 10:02:05.843254
+Finished work in delete_files: : 2023-11-01 10:02:05.844254
+Start work in get_information: 2023-11-01 10:02:06.088250
+Finished work in get_information: : 2023-11-01 10:02:06.088250
+Start work in delete_files: 2023-11-01 10:02:06.088250
+Finished work in delete_files: : 2023-11-01 10:02:06.089252
+Start work in get_information: 2023-11-01 10:02:06.717595
+Finished work in get_information: : 2023-11-01 10:02:06.718595
+Start work in delete_files: 2023-11-01 10:02:06.718595
+Finished work in delete_files: : 2023-11-01 10:02:06.718595
+Start work in get_information: 2023-11-01 10:03:05.571253
+Finished work in get_information: : 2023-11-01 10:03:05.571253
+Start work in delete_files: 2023-11-01 10:03:05.571253
+Finished work in delete_files: : 2023-11-01 10:03:05.571253
+Start work in get_information: 2023-11-01 10:03:06.272529
+Finished work in get_information: : 2023-11-01 10:03:06.272529
+Start work in delete_files: 2023-11-01 10:03:06.272529
+Finished work in delete_files: : 2023-11-01 10:03:06.273528
+Start work in get_information: 2023-11-01 10:03:06.515526
+Finished work in get_information: : 2023-11-01 10:03:06.516527
+Start work in delete_files: 2023-11-01 10:03:06.516527
+Finished work in delete_files: : 2023-11-01 10:03:06.516527
